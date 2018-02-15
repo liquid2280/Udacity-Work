@@ -1,0 +1,9 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned? I've learned how to think of the layout of a site using HTML and organize my approach.
+  * What has been easy? The easiest thing I've found is follwing along with the lessons. Learning is comfortable and aptly paced.
+  * What has been difficult? Figcaptions have really given me a hard time. lol
+  * How have you used the problem solving strategies from the first project to overcome challenges so far? I would likely use the Mozilla MDN more frequently than I've done until now. 
+
+---
+
+Your response goes here!
